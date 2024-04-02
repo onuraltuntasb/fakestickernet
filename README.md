@@ -15,7 +15,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/OnurAltuntas/fakestickernet.git`
+- Clone this repo to your local machine using `https://github.com/onuraltuntasb/fakestickernet.git`
 
 ### Setup
 
@@ -49,24 +49,16 @@ $ json-server --watch db.json
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/OnurAltuntas/fakestickernet/pulls" target="_blank">`https://github.com/OnurAltuntas/fakestickernet/pulls`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/onuraltuntasb/fakestickernet/pulls" target="_blank">`https://github.com/onuraltuntasb/fakestickernet/pulls`</a>.
 
 ---
 
-## Team
 
-> Or Contributors/People
-
- <a href="https://onuraltuntasdev.netlify.app/" target="_blank">**OnurAltuntasDev**</a> 
- | [![OnurAltuntas](https://avatars0.githubusercontent.com/u/53194850?s=460&u=88ff0b9c8fe41c908d3c9b7ff43eb00dba669e66&v=4)](https://onuraltuntasdev.netlify.app)  |
----
 
 ## Support
 
 Reach out to me at one of the following places!
 
-- Website at <a href="https://onuraltuntasdev.netlify.app/" target="_blank">`onuraltuntasdev.com`</a>
-- Twitter at <a href="http://twitter.com/onuraltuntasdev" target="_blank">`@onuraltuntasdev`</a>
-- Youtube at <a href="https://www.youtube.com/channel/UCalJQ45NyMzMvPqK5n0xYEA" target="_blank">`@onuraltuntasdev`</a>
+- Website at <a href="https://onuraltuntasb.github.io/personal-website/" target="_blank">`https://onuraltuntasb.github.io/personal-website/`</a>
 ---
 
